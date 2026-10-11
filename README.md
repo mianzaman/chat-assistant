@@ -13,7 +13,7 @@ pip install -r requirements.txt
 Add your OpenRouter API key to a `.env` file in the project root. `.env` is ignored by Git.
 
 ```toml
-OPENROUTER_API_KEY=your-openrouter-api-key
+OPENROUTER_API_KEY= your-openrouter-api-key
 ```
 
 Run the app:
